@@ -1,0 +1,11 @@
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\meldr\source\repos\BetterGuestBook\ConsoleUI\obj\Debug\ConsoleUI.pdb

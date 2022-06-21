@@ -1,0 +1,15 @@
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\bin\Debug\net6.0\GuestBookDemo.exe
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\bin\Debug\net6.0\GuestBookDemo.deps.json
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\bin\Debug\net6.0\GuestBookDemo.runtimeconfig.json
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\bin\Debug\net6.0\GuestBookDemo.dll
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\bin\Debug\net6.0\GuestBookDemo.pdb
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.csproj.AssemblyReference.cache
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.AssemblyInfoInputs.cache
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.AssemblyInfo.cs
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.csproj.CoreCompileInputs.cache
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.dll
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\refint\GuestBookDemo.dll
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.pdb
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\GuestBookDemo.genruntimeconfig.cache
+C:\Users\meldr\source\repos\GuestBookDemoApp\GuestBookDemo\obj\Debug\net6.0\ref\GuestBookDemo.dll

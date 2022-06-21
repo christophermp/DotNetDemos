@@ -1,0 +1,6 @@
+C:\Users\meldr\source\repos\BetterGuestBook\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
+C:\Users\meldr\source\repos\BetterGuestBook\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
+C:\Users\meldr\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.AssemblyReference.cache
+C:\Users\meldr\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\meldr\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
+C:\Users\meldr\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb

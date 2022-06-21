@@ -1,0 +1,8 @@
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\meldr\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
