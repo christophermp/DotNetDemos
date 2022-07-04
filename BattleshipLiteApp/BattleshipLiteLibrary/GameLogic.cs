@@ -49,7 +49,7 @@ namespace BattleshipLiteLibrary
             model.ShotGrid.Add(spot);
         }
 
-        public static bool StoreShot(PlayerInfoModel model, string location)
+        public static bool PlaceShip(PlayerInfoModel model, string location)
         {
             throw new NotImplementedException();
         }
