@@ -1,0 +1,3 @@
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.AssemblyReference.cache
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.SuggestedBindingRedirects.cache
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CoreCompileInputs.cache

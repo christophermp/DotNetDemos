@@ -4,3 +4,9 @@ C:\Users\meldr\source\repos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\Ba
 C:\Users\meldr\source\repos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
 C:\Users\meldr\source\repos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.dll
 C:\Users\meldr\source\repos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.pdb
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.dll
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.pdb
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.AssemblyReference.cache
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.dll
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.pdb
