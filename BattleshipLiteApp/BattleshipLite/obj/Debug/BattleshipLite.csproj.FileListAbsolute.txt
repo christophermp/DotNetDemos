@@ -1,3 +1,11 @@
 C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.AssemblyReference.cache
 C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.SuggestedBindingRedirects.cache
 C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CoreCompileInputs.cache
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe.config
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.pdb
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.dll
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.pdb
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CopyComplete
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.exe
+C:\Users\meldr\source\repos\NetDemos\DotNetDemos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.pdb
