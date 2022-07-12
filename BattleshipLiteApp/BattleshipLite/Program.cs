@@ -57,22 +57,28 @@ namespace BattleshipLite
         private static void RecordPlayerShot(PlayerInfoModel activePlayer, PlayerInfoModel opponent)
         {
             bool isValidShot = false;
+            string row = "";
+            int column = 0;
 
             do
             {
                 string shot = AskForShot();
-                (string row, int column) = GameLogic.SplitShotIntoRowAndColumn(shot);
+                (row, column) = GameLogic.SplitShotIntoRowAndColumn(shot);
                 isValidShot = GameLogic.ValidateShot(activePlayer, row, column);
+
+                if (isValidShot == false)
+                {
+                    Console.WriteLine("Invalid Shot Location. Please try again.");
+                }
+
 
             } while (isValidShot == false);
 
-            // Asks for a shot (we ask for "B2")
-            // Determine what row and column that is - split it apart
-            // Determine if that is a valid shot
-            // Go back to beginning if not valid shot.
-
             // Determine shot results
+            bool isAHit = GameLogic.IdentifyShotResult(opponent, row, column);
+
             // Record results
+            GameLogic.MarkShotResult(activePlayer, row, column, isAHit);
         }
 
         private static string AskForShot()

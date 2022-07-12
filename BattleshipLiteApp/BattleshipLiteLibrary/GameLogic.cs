@@ -73,5 +73,15 @@ namespace BattleshipLiteLibrary
         {
             throw new NotImplementedException();
         }
+
+        public static bool IdentifyShotResult(PlayerInfoModel opponent, string row, int column)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static void MarkShotResult(PlayerInfoModel activePlayer, string row, int column, bool isAHit)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
