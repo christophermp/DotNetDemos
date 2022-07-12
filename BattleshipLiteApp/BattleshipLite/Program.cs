@@ -20,19 +20,66 @@ namespace BattleshipLite
 
             do
             {
-                // Display grid from activePlayer on where they fired.
                 DisplayShotGrid(activePlayer);
 
-                // Ask activePlayer for a shot.
-                // Determine if it is a valid shot.
-                // Determine shot results.
-                // Determine if the game is over.
+                RecordPlayerShot(activePlayer, opponent);
+
+                // Determine if game should continue
+                bool doesGameContinue = GameLogic.PlayerStillActive(opponent);
+
                 // If over, set activePlayer as the winner.
-                // else, swap positions (activePlayer to opponent).
+                // else, swap positions (activePlayer to opponent)
+                if (doesGameContinue == true)
+                {
+                    // Swap positions, Using tupel
+                    (activePlayer, opponent) = (opponent, activePlayer);
+
+                }
+                else
+                {
+                    winner = activePlayer;
+                }
+
 
             } while (winner == null);
 
+            IdentifyWinner(winner);
+
             Console.ReadLine();
+        }
+
+        private static void IdentifyWinner(PlayerInfoModel winner)
+        {
+            Console.WriteLine($"Congratulations to {winner.UsersName} for winning!");
+            Console.WriteLine($"{winner.UsersName} took {GameLogic.GetShotCount(winner)} shots.");
+        }
+
+        private static void RecordPlayerShot(PlayerInfoModel activePlayer, PlayerInfoModel opponent)
+        {
+            bool isValidShot = false;
+
+            do
+            {
+                string shot = AskForShot();
+                (string row, int column) = GameLogic.SplitShotIntoRowAndColumn(shot);
+                isValidShot = GameLogic.ValidateShot(activePlayer, row, column);
+
+            } while (isValidShot == false);
+
+            // Asks for a shot (we ask for "B2")
+            // Determine what row and column that is - split it apart
+            // Determine if that is a valid shot
+            // Go back to beginning if not valid shot.
+
+            // Determine shot results
+            // Record results
+        }
+
+        private static string AskForShot()
+        {
+            Console.Write("Please enter your shot selection: ");
+            string output = Console.ReadLine();
+            return output;
         }
 
         private static void DisplayShotGrid(PlayerInfoModel activePlayer)
@@ -41,9 +88,27 @@ namespace BattleshipLite
 
             foreach (var gridSpot in activePlayer.ShotGrid)
             {
+                if (gridSpot.SpotLetter != currentRow)
+                {
+                    Console.WriteLine();
+                    currentRow = gridSpot.SpotLetter;
+                }
+
                 if (gridSpot.Status == GridSpotStatus.Empty)
                 {
                     Console.Write($" {gridSpot.SpotLetter}{gridSpot.SpotNumber} ");
+                }
+                else if (gridSpot.Status == GridSpotStatus.Hit)
+                {
+                    Console.Write(" X ");
+                }
+                else if (gridSpot.Status == GridSpotStatus.Miss)
+                {
+                    Console.Write(" O ");
+                }
+                else
+                {
+                    Console.Write(" ? ");
                 }
             }
         }
